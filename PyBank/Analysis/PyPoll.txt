@@ -1,0 +1,19 @@
+Financial Analysis
+----------------------------
+Financial Analysis
+----------------------------
+Total Months:258
+Financial Analysis
+----------------------------
+Total Months:258
+Total: $67692594
+Average Change:262374.3953488372
+Greatest Increase in Profits:['Sep-16', '898241']
+Greatest Decrease in Profits:['Apr-10', '-728133']
+Financial Analysis
+----------------------------
+Total Months:602
+Total: $157949386
+Average Change:262374.3953488372
+Greatest Increase in Profits:['Sep-16', '898241']
+Greatest Decrease in Profits:['Apr-10', '-728133']
